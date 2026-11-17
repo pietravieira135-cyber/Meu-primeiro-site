@@ -1,0 +1,17 @@
+body{
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+color: rgb(17, 0, 170);
+text-align: center;
+background-color: rgb(56, 123, 224);
+}
+.capa{
+    border: radius 20px;
+    background-color: aliceblue;
+
+}
+h1{
+    color: rgb(2, 34, 139);
+}
+

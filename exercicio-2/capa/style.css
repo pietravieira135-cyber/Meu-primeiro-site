@@ -1,0 +1,16 @@
+.capa {background-color: rgb(1, 26, 107);
+    background-image: 
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLjWkcJFxpxYh5qMs4He8-n5PXuXELZgyzyUDYbpogQ&s=10);
+place-items: center;
+min-height: 100vh;
+padding: 24px;
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+min-height: 100vh;
+text-align: center;
+align-items: center;
+display: flex;
+font-size: 30px;}
+h1{color: rgb(255, 255, 255);} 
